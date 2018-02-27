@@ -21,7 +21,7 @@ const AppBar = ({ classes }) => (
     <MuiAppBar position="static" color="primary">
       <Toolbar className={classes.toolbar}>
         <Typography variant="title" color="inherit">
-          Movie Posters!
+          Movie Posters! Foo
         </Typography>
       </Toolbar>
     </MuiAppBar>
